@@ -24,6 +24,6 @@ Olá meu nome é Henrique, seja bem-vindo👋
      
   <a href="https://www.instagram.com/invites/contact/?i=8n7rolqbjw6t&utm_content=n37kfgi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
- 
+  ![Snake animation](https://github.com/rustjavaw/rustjavaw/blob/output/github-contribution-grid-snake.svg)
   
   </div>
