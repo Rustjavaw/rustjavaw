@@ -24,9 +24,6 @@ Olá meu nome é Henrique, seja bem-vindo👋
      
   <a href="https://www.instagram.com/invites/contact/?i=8n7rolqbjw6t&utm_content=n37kfgi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-
  
-    
+  
   </div>
